@@ -1,0 +1,14 @@
+{
+  "welcome": "مرحبًا بكم في Cubic",
+  "register": "تسجيل",
+  "change_language": "تغيير اللغة",
+  "english": "الإنجليزية",
+  "arabic":"العربية",
+  "name": "الاسم",
+  "enter_name": "يرجى إدخال اسمك",
+  "email": "البريد الإلكتروني",
+  "valid_email": "يرجى إدخال بريد إلكتروني صالح",
+  "phone_number": "رقم الهاتف",
+  "valid_phone_number": "يرجى إدخال رقم هاتف صالح",
+  "select_branch": "اختر الفرع"
+}

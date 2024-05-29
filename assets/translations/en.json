@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome To Cubic",
+  "register": "Register",
+  "change_language": "Change Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "name": "Name",
+  "enter_name": "Please enter your name",
+  "email": "Email",
+  "valid_email": "Please enter a valid email",
+  "phone_number": "Phone Number",
+  "valid_phone_number": "Please enter a valid phone number",
+  "select_branch": "Select Branch"
+}
